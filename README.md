@@ -13,19 +13,6 @@ This repository contains the complete package for the **AI Bot Demo**, including
 
 - **`main3.py`**  
   The main script that runs the AI Bot. This file contains the core logic and functionality.
-
-- **`constansts.py`**  
-  Stores the API key and other constant values required for the bot to function.
-
-- **`Report File/`**  
-  Contains a detailed explanation of the project, its features, and working methodology.
-
-- **`Demo Video/`**  
-  A video demonstration showcasing the working of the AI Bot.
-
-- **`user.xlsx`**  
-  An Excel file where user feedback data is recorded and stored.
-
 ---
 
 ## 🚀 How to Use
